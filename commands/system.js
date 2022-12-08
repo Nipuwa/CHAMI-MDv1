@@ -256,7 +256,7 @@ cmd({
         },
         async(Void, citel, text, isAdmins) => {
             const aliveadm = isAdmins ? "True" : "False";
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by ❰ 👹 𝚁𝙾𝚂𝙷𝙰𝙽 𝙲𝙷𝙰𝙼𝙸𝙺𝙰 👹 ❱*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by ❰ ❘ 🪀 ❘ Ｎɪᴘᴜɴ Ｍᴀᴅᴜꜱᴀɴᴋᴀ 👨‍✈️ ❱*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 
@@ -269,7 +269,7 @@ ${alivemessage}
 
 *Owner  :-* ${Config.ownername}
 
-*Owner Number*  :- wa.me/94775512050
+*Owner Number*  :- wa.me/94728744336
 
 *Type ${prefix}menu for get command list.*
 
@@ -279,7 +279,7 @@ ${alivemessage}
 
 📌 _මෙය Testing Version එකක් වන අතර, බොට් ගැන ඔබට නොතේරෙන යමක් ඇත්නම් කරුණාකර බොට්ගේ owner ට දැනුම් දෙන්න._
 
-*Powered by 👹 CHAMI-MD-WA-BOT 👹*
+*Powered by ❘ 💃 ❘Ｂʟᴀᴄᴋ Ｅᴀɢʟᴇ 🦅*
 `;
             let aliveMessage = {
                 image: {
